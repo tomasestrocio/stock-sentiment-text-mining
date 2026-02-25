@@ -105,5 +105,5 @@ RoBERTa achieved the best overall performance, showing stronger ability to captu
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-sentiment-text-mining.git
+git clone https://github.com/tomasestrocio/stock-sentiment-text-mining.git
 cd stock-sentiment-text-mining
