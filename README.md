@@ -23,7 +23,7 @@ This project explores how different preprocessing strategies, feature representa
 4. **T5 embeddings + Logistic Regression**
 5. **Word2Vec + Bi-LSTM**
 6. **DistilBERT (fine-tuned)**
-7. **RoBERTa (fine-tuned)** ✅ best performer
+7. **RoBERTa (fine-tuned)** best performer
 
 ---
 
